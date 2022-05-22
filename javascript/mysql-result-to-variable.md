@@ -1,5 +1,12 @@
 # MySQL results to variable in Node.js
 
+- [MySQL results to variable in Node.js](#mysql-results-to-variable-in-nodejs)
+    - [Knowledge](#knowledge)
+    - [Issue](#issue)
+    - [Solution (Promise+then)](#solution-promisethen)
+    - [Solution (Promise+await)](#solution-promiseawait)
+    - [Solution (Util+promisify)](#solution-utilpromisify)
+
 ### Knowledge
 
 - Callback function
